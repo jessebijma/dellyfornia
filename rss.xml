@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss version="2.0">
+    <channel>
+        <title>myBand</title>
+        <link></link>
+        <description></description>
+        <copyright>Jesse Bijma</copyright>
+
+        <item>
+            <title>Video 1</title>
+            <link></link>
+            <description></description>
+            <pubdate></pubdate>
+        </item>
+        <item>
+            <title>Video 2</title>
+            <link></link>
+            <description></description>
+            <pubdate></pubdate>
+        </item>
+        <item>
+            <title>Video 3</title>
+            <link></link>
+            <description></description>
+            <pubdate></pubdate>
+        </item>
+    </channel>
+</rss>

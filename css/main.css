@@ -1,0 +1,198 @@
+
+
+@font-face {
+    font-family: "Ghost Crazy Standaard";
+    src: url('../fonts/Ghost-Crazy.ttf');
+}
+@font-face {
+    font-family: "SummerFire";
+    src: url('../fonts/SummerFire.ttf');
+}
+
+
+body {
+    background-color: black;
+}
+
+
+html,body {
+    margin: 0;
+    padding: 0;
+}
+
+.desc {
+    background-color: #fff;
+    border: 1px solid #000;
+    position: absolute;
+    margin-left: 100px;
+    margin-top: -20px;
+    width: 200px;
+}
+
+footer {
+    background-color: #000000;
+    color: #880000;
+    border: 2px;
+    border-color: #000000;
+    text-align: center;
+    padding-top: 10em;
+}
+
+header {
+    font-family: SummerFire;
+}
+
+header img {
+    width: 650px;
+    height: 300px;
+    cursor: default;
+    margin: auto;
+    display: block;
+}
+
+
+
+#nav {
+    text-align: center;
+    font-size: 38px;
+}
+
+
+#nav a {
+    text-decoration: none;
+    color: darkred;
+}
+
+
+#nav  ul {
+    text-decoration: none;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+#nav ul li {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.6em;
+    line-height: 40px;
+    height: 40px;
+    margin: 8px;
+}
+
+
+#nav ul li a:hover {
+    color: snow;
+    /*background-color: #232362;*/
+
+}
+
+
+#about {
+    padding-top: 5em;
+    color: white;
+    text-align: center;
+}
+
+
+.videos {
+    color: white;
+    text-align: center;
+    /*margin-bottom: 130px;*/
+    padding-top: 5em;
+    font-size: 45px;
+    font-family: SummerFire;
+}
+
+
+#newsarticles {
+    font-family: SummerFire;
+    font-size: 48px;
+    color:white;
+    text-align: center;
+}
+
+
+#contact {
+    color: white;
+    text-align: center;
+    padding-top: 5em;
+    font-size: 17px;
+}
+
+
+.home {
+    color: white;
+    text-align: center;
+    font-size: 42px;
+    font-family: SummerFire;
+}
+
+.search {
+    text-align: center;
+    color: white;
+}
+
+.newsarticle img {
+    width: 400px;
+    height: 400px;
+}
+
+.foto img {
+    max-width:  550px;
+    max-height: 500px;
+    margin-top: 5em;
+
+}
+
+.foto {
+    margin: 0 auto;
+    width: 600px;
+    height:  550px;
+    text-align: center;
+    color: white;
+    font-family: "Ghost Crazy Standaard";
+}
+
+.headertxt {
+    font-size: 12px;
+    font-family: verdana, arial, sans-serif;
+    color: #880000;
+}
+
+.pages {
+    display: inline-block;
+    margin: auto;
+    padding: 0;
+    padding-left: 31.5em;
+}
+
+.pages ul li {
+    float: left;
+    padding: 8px 16px;
+    text-align: center;
+}
+
+.pages ul li  a {
+    transition: background-color .3s;
+    text-decoration: none;
+    color: darkred;
+    font-family: SummerFire;
+    font-size: 60px;
+}
+
+.pages ul li  a:hover {
+    color: white;
+}
+
+@media only screen and (max-width: 450px) {
+    .foto {
+        width: 400px;
+    }
+    .header img {
+
+    }
+}
+
+
