@@ -1,7 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe588f17-b27d-401b-ad62-32653c3d3f97" name="Default" comment="" />
+    <list default="true" id="fe588f17-b27d-401b-ad62-32653c3d3f97" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.1/Plan van aanpak.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.5/mockup.rp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Flame on Black.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Flame on!.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Ghost-Crazy.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/SummerFire.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Image-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Image-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dellyfornia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/mybandd.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/erd.mdj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/functs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/debug.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/block.textformat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/function.counter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/function.cycle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/function.fetch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/function.html_checkboxes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/function.html_image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/function.html_options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/function.html_radios.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/function.html_select_date.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/function.html_select_time.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/function.html_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/function.mailto.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/function.math.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifier.capitalize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifier.date_format.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifier.debug_print_var.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifier.escape.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifier.regex_replace.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifier.replace.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifier.spacify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifier.truncate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifiercompiler.cat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifiercompiler.count_characters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifiercompiler.count_paragraphs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifiercompiler.count_words.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifiercompiler.default.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifiercompiler.escape.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifiercompiler.from_charset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifiercompiler.indent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifiercompiler.lower.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifiercompiler.noprint.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifiercompiler.string_format.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifiercompiler.strip.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifiercompiler.strip_tags.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifiercompiler.to_charset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifiercompiler.unescape.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifiercompiler.upper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/modifiercompiler.wordwrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/outputfilter.trimwhitespace.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/shared.escape_special_chars.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/shared.literal_compiler_param.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/shared.make_timestamp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/shared.mb_str_replace.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/plugins/shared.mb_unicode.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +167,9 @@
     <dirStrings>
       <dir>C:\wamp\www\mybandd</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -173,12 +269,12 @@
       <option name="presentableId" value="Default" />
       <updated>1511439793077</updated>
       <workItem from="1511439794252" duration="2890000" />
-      <workItem from="1513249670556" duration="50000" />
+      <workItem from="1513249670556" duration="70000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2940000" />
+    <option name="totallyTimeSpent" value="2960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
@@ -188,7 +284,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
